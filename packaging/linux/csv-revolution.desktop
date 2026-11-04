@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=CSV Revolution
+Comment=Apri, filtra e interroga file CSV in locale
+Exec=csv-revolution %F
+Icon=csv-revolution
+Terminal=false
+Categories=Office;Utility;Database;
+MimeType=text/csv;
+StartupWMClass=csv-revolution

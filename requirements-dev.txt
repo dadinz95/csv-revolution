@@ -1,0 +1,4 @@
+pyinstaller>=6.10
+pillow>=10.0
+# solo per i test: crea file .xls di prova
+xlwt>=1.3

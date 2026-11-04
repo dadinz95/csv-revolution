@@ -1,0 +1,5 @@
+duckdb>=2.0.0
+PySide6>=6.8.0
+# Supporto Excel
+openpyxl>=3.1      # .xlsx (lettura in streaming e salvataggio della copia)
+xlrd>=2.0.1        # .xls (solo lettura; la copia viene salvata come .xlsx)
